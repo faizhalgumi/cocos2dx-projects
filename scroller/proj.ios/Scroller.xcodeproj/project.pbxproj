@@ -309,6 +309,7 @@
 					"\"$(SRCROOT)/../../cocos2dx/platform/ios\"",
 					"\"$(SRCROOT)/../../cocos2dx/kazmath/include\"",
 					"$(SRCROOT)/../../external/chipmunk/include/chipmunk",
+					"\"$(SRCROOT)/../../extensions\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Scroller-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
@@ -344,6 +345,7 @@
 					"\"$(SRCROOT)/../../cocos2dx/platform/ios\"",
 					"\"$(SRCROOT)/../../cocos2dx/kazmath/include\"",
 					"$(SRCROOT)/../../external/chipmunk/include/chipmunk",
+					"\"$(SRCROOT)/../../extensions\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Scroller-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
